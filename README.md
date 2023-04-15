@@ -5,11 +5,11 @@
 
 ### Experience: 
 
-- **Data Analytics Role:** (Python, R) 
+- **Data Analytics Functions:** (Python, R) 
   - Risk Assessment, Sampling, Data Modeling & Analysis *as External Auditor* 
   - Fraud Detection, Risk Profiling, Transaction Monitoring for AML *as Internal Auditor*
 
-- **Data Visualization Role:** (Tableau, Power BI)
+- **Data Visualization Functions:** (Tableau, Power BI)
   - Story Telling with Data & CFO Dashboard *as Finance Analyst*
   - Audit Findings *as Auditor*
  
