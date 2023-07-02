@@ -6,14 +6,16 @@
 ### Experience: 
 
 - **Data Analytics Functions:** (Python, R) 
+  - B/S, P/L, Liquidity Analysis and Automated Reporting *as Data Analyst* 
   - Risk Assessment, Sampling, Data Modeling & Analysis *as External Auditor* 
-  - Fraud Detection, Risk Profiling, Transaction Monitoring for AML *as Internal Auditor*
+  - Fraud Detection, Risk Profiling, and Transaction Monitoring for AML *as Internal Auditor*
 
 - **Data Visualization Functions:** (Tableau, Power BI)
-  - Story Telling with Data & CFO Dashboard *as Finance Analyst*
-  - Audit Findings *as Auditor*
+  - Story Telling with Data & CFO Dashboard *as Data Analyst*
+  - Solo & Consolidated FS Analysis, Audit Findings & Reporting *as Auditor*
+  - Bank & FI's Financial Health Analysis and Reporting *as Auditor*
  
 - **Database:** (SQL, PL/SQL) 
-  - Complex Query & Data Manupulation from multiple tables and DB *with mySQL, Oracle 11g, 19c, 21c*   
-  - Data Wearhousing *with Oracle 21c ADW*
+  - Complex Query & Data Manipulation from multiple tables and DB *with mySQL, Oracle 11g, 19c, 21c*   
+  - Data Warehousing *with Oracle 21c ADW, Google BigQuery*
   - Statistical Data Analysis and Reporting 
